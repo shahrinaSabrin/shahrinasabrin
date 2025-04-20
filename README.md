@@ -8,10 +8,11 @@
 
 ## 🔧 Tech Stack
 
-- Frontend: React, Tailwind CSS, Ant Design  
-- Backend: NestJS, Express, TypeORM  
-- DB: PostgreSQL  
+- Frontend: React,NextJS, Tailwind CSS, Ant Design , Shadcn. 
+- Backend: NestJS, Prisma, TypeORM, Swagger 
+- DB: PostgreSQL, MySQL 
 - Tools: Git, Postman, VS Code
+- Curious about: `WebSocket`, `Docker`, `Microservices`, and `DevOps`
 
 ---
 
@@ -28,6 +29,8 @@
 - I enjoy learning new tech and writing clean, maintainable code  
 - Family is my biggest strength and motivation  
 - I believe in growing a little every day — as a dev and as a person
+- 🌼 I love **gardening** and enjoy watching things grow — much like code.
+
 
 ---
 
